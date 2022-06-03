@@ -1290,3 +1290,10 @@
     *display: inline;
     vertical-align: middle
 }
+
+
+#HCB_comment_box, 
+#hcb_form .home-desc {
+    margin-top: 12px;
+    display: none;
+}
